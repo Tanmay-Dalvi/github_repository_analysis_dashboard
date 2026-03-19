@@ -1,0 +1,92 @@
+=== GitHub Data Analytics KPI Summary ===
+
+Total Repositories: 2771
+Total Stars: 38529591
+Total Forks: 9561833
+Average Stars per Repository: 13904.58
+Average Forks per Repository: 3450.68
+
+--- Top 10 Repositories by Stars ---
+        name  stars
+freeCodeCamp 326065
+freeCodeCamp 326065
+     996.ICU 257895
+     996.ICU 257895
+         vue 185599
+         vue 185599
+       react 171294
+       react 171294
+     awesome 165548
+     awesome 165548
+
+--- Top 10 Repositories by Forks ---
+                  name  forks
+ProgrammingAssignment2 138589
+ProgrammingAssignment2 138589
+           Spoon-Knife 118676
+           Spoon-Knife 118676
+            tensorflow  85108
+            tensorflow  85108
+            tensorflow  85108
+     SmartThingsPublic  83827
+             bootstrap  73981
+             bootstrap  73981
+
+--- Repository Count per Language (Top 20) ---
+language
+JavaScript      154
+Python          124
+Java            116
+C++             109
+C               108
+Go              108
+HTML            107
+CSS             106
+Shell           105
+C#              104
+PHP             102
+Scala           101
+R               101
+Clojure         101
+TeX             100
+Ruby            100
+Lua             100
+Haskell         100
+Kotlin          100
+ActionScript    100
+
+--- Average Stars per Language (Top 20) ---
+language
+Rust                162297.000000
+Dart                124542.000000
+TypeScript           73962.454545
+Vue                  69206.000000
+Assembly             51101.000000
+JavaScript           44253.987013
+Python               40375.951613
+SCSS                 32852.000000
+Java                 29114.663793
+Go                   26070.333333
+C++                  25826.972477
+Jupyter Notebook     21603.000000
+Shell                21265.104762
+C                    17839.444444
+PHP                  12712.196078
+Ruby                 10975.020000
+C#                   10945.528846
+Swift                10888.670000
+CSS                  10464.792453
+HTML                 10464.214953
+
+--- Language Distribution Percentage (Top 10) ---
+language
+JavaScript    5.557560
+Python        4.474919
+Java          4.186214
+C++           3.933598
+C             3.897510
+Go            3.897510
+HTML          3.861422
+CSS           3.825334
+Shell         3.789246
+C#            3.753158
