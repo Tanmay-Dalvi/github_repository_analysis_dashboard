@@ -1,6 +1,6 @@
 # 🚀 GitHub Repository Analytics Dashboard
 
-![Dashboard Preview](./images/dashboard.png)
+![Dashboard Preview](./dashboard.png)
 
 ## 📊 Overview
 
